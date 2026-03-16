@@ -1,8 +1,12 @@
 # ViniciusAulaBTP
 Aulas BTP TCS
 
-Para iniciar o projeto, vamso instalar o node.
-npm i.
+Desenvolvimento
 
-para startar vamos usar
-npm run.
+
+Desenvolvimento 2
+
+
+Desenvolvimento 3
+
+Desenvolvimento 4
